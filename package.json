@@ -1,6 +1,6 @@
 {
-  "name": "electron-with-create-react-app",
-  "version": "0.1.0",
+  "name": "food-ordering-app",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "electron": "4.0.0",
@@ -8,6 +8,7 @@
     "react-scripts": "2.1.1"
   },
   "dependencies": {
+    "rc-hammerjs": "^0.6.9",
     "react": "16.7.0",
     "react-dom": "16.7.0"
   },
